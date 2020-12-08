@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="temp_sign">°C</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum, nisi eget scelerisque tincidunt, sem elit ultricies magna, sit amet lobortis elit tellus nec est. Cras a rhoncus metus, eu euismod ante. Quisque venenatis odio eu sagittis congue. Nullam massa velit, sagittis eget ligula id, varius ultricies odio. Mauris enim ipsum, placerat ac dui sit amet, porta iaculis libero. Donec vulputate malesuada vehicula. Sed efficitur scelerisque eros, in maximus odio scelerisque nec. Quisque eu tristique sem. Nulla vitae ultricies metus. Nam ac nulla ligula. Nulla semper pulvinar justo vitae ullamcorper. Donec tellus dolor, tempus vel massa nec, semper interdum libero. Suspendisse ac nisi ac risus efficitur luctus. Mauris facilisis ante vitae nisl tincidunt ullamcorper. Pellentesque et nulla pulvinar ante placerat convallis. Pellentesque maximus ac arcu nec imperdiet.
+
+Aenean ac quam tincidunt, semper massa id, porttitor urna. Fusce lacinia odio dolor, nec faucibus nisi pharetra ut. Donec sollicitudin mattis nisi ac sagittis. Morbi non porta erat. Etiam venenatis erat ac lectus pulvinar, eget dignissim arcu finibus. Praesent aliquam gravida sapien quis pharetra. Nullam luctus quis est ornare tincidunt. Curabitur maximus efficitur erat, sed placerat nibh laoreet at. Suspendisse in odio non velit pulvinar euismod. Phasellus id faucibus augue.
+
+Curabitur feugiat, tellus nec commodo posuere, leo arcu laoreet ligula, at pretium dolor felis nec erat. Cras ultricies dolor faucibus porttitor molestie. Quisque a velit velit. Integer at dolor sit amet eros posuere rutrum. Vivamus finibus cursus faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean non porttitor turpis. Morbi dignissim ligula at sem euismod, non elementum odio interdum. Mauris malesuada justo orci, a gravida lacus vestibulum ut. Aenean sem libero, bibendum vel nulla sit amet, varius rhoncus sem. Mauris egestas dignissim lorem, et porta leo feugiat vel.</string>
+    <string name="details">Details</string>
+    <string name="feel">Real feel</string>
+    <string name="wind">Wind speed</string>
+    <string name="meterSec">m/s</string>
+</resources>
